@@ -1,6 +1,6 @@
 """
     a user database with CSV files.
-    it can take input and allow users to log in/log out/register.
+    It can take input and allow users to log in/log out/register.
 """
 
 
